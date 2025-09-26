@@ -39,7 +39,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-sharma2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=harshit-sharma2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" /> -->
   <img src="https://streak-stats.demolab.com?user=harshit-sharma2005&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="47%" />
 </p>
 
